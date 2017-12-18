@@ -1,0 +1,12 @@
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csprojResolveAssemblyReference.cache
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+C:\Users\Andross\Desktop\school_projects\C#\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe.config
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.exe
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.pdb
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.exe
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\bin\Debug\LinkedListExample.pdb
+C:\Users\Andross\Desktop\school_projects\C#\##References\LinkedListExample\LinkedListExample\obj\Debug\LinkedListExample.csprojResolveAssemblyReference.cache
